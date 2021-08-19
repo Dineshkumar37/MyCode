@@ -14,9 +14,8 @@ code changes are displyed in red
 9. To go to another branch - git checkout branchName
 10. to merge with master branch - navigate to the branch first: git checkout master
 git merge myBranchName
-
 11. to delete branch- 
-
+Pre-Requeste:
 1st time install git
 git config --global username "myname"
 git config --global email "email"
