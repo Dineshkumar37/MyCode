@@ -1,0 +1,29 @@
+GIT
+
+1. right click on the project Showin -> system explorer
+2. locatin la right click -> git bash
+3. cmd prompt la -> git status
+code changes are displyed in red
+4. In cmd prompt git add tar
+4.1 To add single changes git add filepath
+5. To Commit - git commit -n "commit message"
+6. git push origin master command to push 
+2.1. To pull: git pull origin master.
+7 to create a new branch: git checkout -b branchName
+8. To check u r in which branch - git branch
+9. To go to another branch - git checkout branchName
+10. to merge with master branch - navigate to the branch first: git checkout master
+git merge myBranchName
+
+11. to delete branch- 
+
+1st time install git
+git config --global username "myname"
+git config --global email "email"
+git init 
+git remote add origin git ssh url
+
+git repository ssh url
+
+if u face git conflicts
+git rebase
